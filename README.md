@@ -56,5 +56,4 @@ python ./main.py -h
 ### Output
 The program will output the graph as a **PNG** file to the out_dir specified. Example graph looks like below.
 
-![alt text][logo]
-[logo]: https://github.com/aagrawal20/generate-model-graph/blob/master/graphs/train-test.png "Train Test Graph"
+![alt text](https://github.com/aagrawal20/generate-model-graph/blob/master/graphs/train-test.png "Train Test Graph")
